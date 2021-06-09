@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @pramodh941
 - 👀 I’m interested in Artificial Intelligence, Big Data, Cloud computing
+- I hold a Masters degree in Data Science and Economics from University of Milan
 - 🌱 I’m currently learning Big Data Analytics
 - 💞️ I’m looking to collaborate in Big Data, Java (OOPS-Multithreading), Networking, DB
 - 📫 Reach me out at pramod.chintareddy@gmail.com
